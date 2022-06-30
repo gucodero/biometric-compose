@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">biometric-compose</string>
+    <string name="biometric_not_available">Biometric not available</string>
+    <string name="biometric_prompt_title">Title</string>
+    <string name="biometric_prompt_subtitle">Subtitle</string>
+    <string name="biometric_prompt_description">Description</string>
+    <string name="biometric_prompt_negative_button">Negative button</string>
 </resources>
