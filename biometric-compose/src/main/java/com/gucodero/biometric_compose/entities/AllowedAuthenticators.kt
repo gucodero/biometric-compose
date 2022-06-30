@@ -11,8 +11,5 @@ enum class AllowedAuthenticators(val value: Int) {
     ),
     DEVICE_CREDENTIAL(
         value = BiometricManager.Authenticators.DEVICE_CREDENTIAL
-    ),
-    NONE(
-        value = 0
     )
 }
