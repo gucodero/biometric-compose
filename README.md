@@ -5,7 +5,6 @@
 Biometric compose is a simple library to use biometrics from compose with little code.
 
 ## **Download**
-----
 
 ```gradle
 
@@ -23,7 +22,6 @@ dependencies {
 ```
 
 ## **Use**
-----
 
 Your activity must extend FragmentActivity or subclass
 
